@@ -96,3 +96,4 @@ function gamBamBo(me, you) {
 
 
 //랜덤 -> 승률
+//try catch 문 활용하면 예외처리 하기 좋음.
